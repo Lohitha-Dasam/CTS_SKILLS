@@ -7,6 +7,6 @@
 
 ## Technology Used
 
-* C#
-* .NET 8
-* VS Code
+- C#
+- .NET 8
+- VS Code
