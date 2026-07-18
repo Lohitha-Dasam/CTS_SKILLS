@@ -1,0 +1,21 @@
+=====================================
+Module 6 - Exercise 3
+=====================================
+
+Employee Model Created Successfully
+
+Department Model Created Successfully
+
+Skill Model Created Successfully
+
+GET API Created Successfully
+
+POST API Created Successfully
+
+Custom Authorization Filter Created Successfully
+
+Custom Exception Filter Created Successfully
+
+Exception Logged Successfully
+
+Exercise 3 Completed Successfully

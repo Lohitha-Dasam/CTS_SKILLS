@@ -1,0 +1,24 @@
+=====================================
+Module 6 - Exercise 4
+=====================================
+
+Objective:
+Implement HTTP PUT action to update employee data.
+
+Files Modified:
+- Controllers/EmployeeController.cs
+
+Features Implemented:
+✔ HTTP PUT Action
+✔ ActionResult<Employee>
+✔ FromBody Attribute
+✔ Employee Update
+✔ Invalid Employee ID Validation
+✔ BadRequest Response
+✔ Swagger Testing
+
+Result:
+Employee information updated successfully.
+Invalid employee id returned for invalid requests.
+
+Exercise 4 Completed Successfully.

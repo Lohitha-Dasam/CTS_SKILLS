@@ -1,0 +1,21 @@
+=====================================
+Module 6 - Exercise 1
+=====================================
+
+Project Created Successfully
+
+Controller Created Successfully
+
+HTTP Methods Implemented
+
+GET
+
+POST
+
+PUT
+
+DELETE
+
+Swagger Executed Successfully
+
+Exercise 1 Completed Successfully

@@ -1,0 +1,21 @@
+=====================================
+Module 6 - Exercise 5
+=====================================
+
+JWT Authentication Configured Successfully
+
+JWT Token Generated Successfully
+
+Claims Added Successfully
+
+Role-Based Authorization Implemented
+
+Admin Role Configured
+
+Token Expiration Configured
+
+401 Unauthorized Verified
+
+200 OK Verified
+
+Exercise 5 Completed Successfully
