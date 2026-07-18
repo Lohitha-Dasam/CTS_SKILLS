@@ -1,0 +1,13 @@
+=====================================
+ Retail Inventory System - EF Core 8
+=====================================
+
+All Products:
+1 - Laptop - ₹75000
+2 - Rice Bag - ₹1200
+
+FindAsync Result:
+Laptop - ₹75000
+
+FirstOrDefault Result:
+Laptop - ₹75000

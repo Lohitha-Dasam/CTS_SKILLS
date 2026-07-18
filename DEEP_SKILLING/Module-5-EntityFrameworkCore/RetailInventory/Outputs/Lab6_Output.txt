@@ -1,0 +1,18 @@
+=====================================
+ Retail Inventory System - EF Core 8
+=====================================
+
+Product updated successfully.
+
+Updated Product
+
+Laptop
+Price : ₹80000
+
+-------------------------------------
+
+Product deleted successfully.
+
+Deleted Product
+
+Rice Bag

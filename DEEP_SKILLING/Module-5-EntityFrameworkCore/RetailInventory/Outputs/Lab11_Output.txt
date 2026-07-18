@@ -1,0 +1,11 @@
+=====================================
+ Lab 11 - Relationships
+=====================================
+
+One-to-One relationship configured.
+
+Many-to-Many relationship configured.
+
+Build succeeded.
+
+Lab 11 Completed Successfully.

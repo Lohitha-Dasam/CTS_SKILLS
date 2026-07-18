@@ -1,0 +1,12 @@
+=====================================
+ Lab 7 - LINQ Queries
+=====================================
+
+Products Price > ₹1000 (Descending)
+
+Laptop - ₹70000
+
+Projected DTO Objects
+
+Laptop - ₹70000
+Rice Bag - ₹1200

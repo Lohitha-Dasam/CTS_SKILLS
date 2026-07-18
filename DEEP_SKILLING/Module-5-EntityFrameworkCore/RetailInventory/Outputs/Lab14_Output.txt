@@ -1,0 +1,11 @@
+=====================================
+ Lab 14 - Batch Processing
+=====================================
+
+Bulk Insert Completed.
+
+Bulk Update Completed.
+
+Bulk Delete Completed.
+
+Lab 14 Completed Successfully.

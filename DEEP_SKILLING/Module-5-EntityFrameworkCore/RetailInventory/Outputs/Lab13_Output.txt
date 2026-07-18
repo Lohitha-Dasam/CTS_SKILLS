@@ -1,0 +1,16 @@
+=====================================
+ Lab 13 - Performance Optimization
+=====================================
+
+Products fetched using AsNoTracking()
+
+Smartphone - ₹25000
+Wheat Flour - ₹800
+
+Advantages
+
+- Faster read operations
+- Lower memory usage
+- Suitable for read-only queries
+
+Lab 13 Completed Successfully.

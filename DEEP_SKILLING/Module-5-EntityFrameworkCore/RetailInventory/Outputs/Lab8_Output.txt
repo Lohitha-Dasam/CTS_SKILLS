@@ -1,0 +1,19 @@
+=====================================
+ Lab 8 - Schema Changes
+=====================================
+
+Build succeeded.
+
+Migration Created Successfully.
+
+Migration Name:
+AddStockQuantity
+
+Database Updated Successfully.
+
+Schema Updated Successfully.
+
+New Column Added:
+StockQuantity (INT)
+
+Lab 8 Completed Successfully.

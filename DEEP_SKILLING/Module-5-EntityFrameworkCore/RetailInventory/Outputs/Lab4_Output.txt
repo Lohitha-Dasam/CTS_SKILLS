@@ -1,0 +1,18 @@
+=====================================
+ Retail Inventory System - EF Core 8
+=====================================
+
+Categories inserted successfully.
+Products inserted successfully.
+
+Records Added:
+
+Categories
+----------
+1. Electronics
+2. Groceries
+
+Products
+--------
+1. Laptop     ₹75000
+2. Rice Bag   ₹1200

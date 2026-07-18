@@ -1,0 +1,24 @@
+=====================================
+ Lab 10 - Data Loading
+=====================================
+
+Eager Loading
+
+Smartphone - Electronics
+Wheat Flour - Groceries
+
+-------------------------------------
+
+Explicit Loading
+
+Category : Electronics
+
+Smartphone
+
+-------------------------------------
+
+Lazy Loading
+
+Requires Proxy package and virtual navigation properties.
+
+Lab 10 Completed Successfully.

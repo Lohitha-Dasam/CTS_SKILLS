@@ -1,0 +1,7 @@
+=====================================
+ Retail Inventory System - EF Core 8
+=====================================
+
+Lab 1 Completed Successfully!
+Entity Framework Core project created.
+

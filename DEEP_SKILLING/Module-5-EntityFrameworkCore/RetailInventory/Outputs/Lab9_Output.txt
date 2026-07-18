@@ -1,0 +1,22 @@
+=====================================
+ Lab 9 - Seed Data
+=====================================
+
+Build succeeded.
+
+Seed data configured successfully.
+
+Migration Created:
+SeedInitialData
+
+Database Updated Successfully.
+
+Seeded Categories:
+- Electronics
+- Groceries
+
+Seeded Products:
+- Smartphone
+- Wheat Flour
+
+Lab 9 Completed Successfully.

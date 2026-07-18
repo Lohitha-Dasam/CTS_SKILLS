@@ -1,0 +1,10 @@
+Build started...
+Build succeeded.
+
+Migration: InitialCreate created successfully.
+
+Database: RetailInventoryDB created successfully.
+
+Tables Created:
+- Categories
+- Products

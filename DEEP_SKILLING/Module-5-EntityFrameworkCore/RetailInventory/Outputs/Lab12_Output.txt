@@ -1,0 +1,11 @@
+=====================================
+ Lab 12 - Circular References
+=====================================
+
+Smartphone --> Electronics
+
+Wheat Flour --> Groceries
+
+Circular reference avoided using DTO Projection.
+
+Lab 12 Completed Successfully.
