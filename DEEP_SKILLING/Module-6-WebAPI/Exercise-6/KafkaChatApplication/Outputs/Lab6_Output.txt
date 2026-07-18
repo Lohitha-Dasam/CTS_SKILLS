@@ -1,0 +1,15 @@
+=====================================
+Module 6 - Exercise 6
+=====================================
+
+Kafka Producer Created Successfully
+
+Kafka Consumer Created Successfully
+
+Chat Topic Configured
+
+Messages can be published to Kafka.
+
+Consumer subscribes to the chat-topic.
+
+Exercise 6 Completed Successfully.
