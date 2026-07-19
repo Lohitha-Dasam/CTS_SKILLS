@@ -1,0 +1,13 @@
+=====================================
+Module 7 - Exercise 3
+=====================================
+
+Role Claim Added Successfully
+
+AdminController Created
+
+Role-Based Authorization Implemented
+
+Admin Dashboard Protected
+
+Exercise 3 Completed Successfully

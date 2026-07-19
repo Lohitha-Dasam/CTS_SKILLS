@@ -1,0 +1,11 @@
+=====================================
+Module 7 - Exercise 4
+=====================================
+
+JWT Expiry Handling Configured
+
+Expired Token Detection Added
+
+Custom Unauthorized Response Implemented
+
+Exercise 4 Completed Successfully

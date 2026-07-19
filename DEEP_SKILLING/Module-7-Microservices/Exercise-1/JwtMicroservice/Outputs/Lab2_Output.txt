@@ -1,0 +1,13 @@
+=====================================
+Module 7 - Exercise 2
+=====================================
+
+SecureController Created Successfully
+
+Authorize Attribute Applied
+
+JWT Authentication Verified
+
+Protected Endpoint Tested
+
+Exercise 2 Completed Successfully
