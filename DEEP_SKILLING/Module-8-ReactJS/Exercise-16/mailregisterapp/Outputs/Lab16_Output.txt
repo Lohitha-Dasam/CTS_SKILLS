@@ -1,0 +1,21 @@
+=========================================
+Module 8 - Exercise 16
+=========================================
+
+Project Name : mailregisterapp
+
+Register Component Created
+
+Name Validation Implemented
+
+Email Validation Implemented
+
+Password Validation Implemented
+
+React Form Validation Implemented
+
+Controlled Components Implemented
+
+Application Executed Successfully
+
+Exercise 16 Completed Successfully

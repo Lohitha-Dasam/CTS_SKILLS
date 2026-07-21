@@ -1,0 +1,19 @@
+=========================================
+Module 8 - Exercise 4
+=========================================
+
+Project Name : blogapp
+
+Post Model Created
+
+Posts Component Created
+
+Fetch API Implemented
+
+componentDidMount() Implemented
+
+componentDidCatch() Implemented
+
+Application Executed Successfully
+
+Exercise 4 Completed Successfully

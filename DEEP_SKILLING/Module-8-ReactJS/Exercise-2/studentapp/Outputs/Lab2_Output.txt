@@ -1,0 +1,15 @@
+=========================================
+Module 8 - Exercise 2
+=========================================
+
+StudentApp Created Successfully
+
+Home Component Created
+
+About Component Created
+
+Contact Component Created
+
+Application Executed Successfully
+
+Exercise 2 Completed Successfully

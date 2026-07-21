@@ -1,0 +1,19 @@
+=========================================
+Module 8 - Exercise 18
+=========================================
+
+Project Name : cohortstracker
+
+Unit Testing using Jest
+
+Enzyme Configured
+
+React Component Testing Completed
+
+Snapshot Testing Completed
+
+4 Test Cases Passed Successfully
+
+Application Tested Successfully
+
+Exercise 18 Completed Successfully

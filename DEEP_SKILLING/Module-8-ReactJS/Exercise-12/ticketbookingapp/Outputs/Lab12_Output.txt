@@ -1,0 +1,19 @@
+=========================================
+Module 8 - Exercise 12
+=========================================
+
+Project Name : ticketbookingapp
+
+Login Button Created
+
+Logout Button Created
+
+Guest Greeting Implemented
+
+User Greeting Implemented
+
+Conditional Rendering Implemented
+
+Application Executed Successfully
+
+Exercise 12 Completed Successfully

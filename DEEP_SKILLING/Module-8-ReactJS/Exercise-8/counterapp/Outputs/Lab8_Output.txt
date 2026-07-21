@@ -1,0 +1,19 @@
+=========================================
+Module 8 - Exercise 8
+=========================================
+
+Project Name : counterapp
+
+CountPeople Component Created
+
+State Implemented Successfully
+
+Constructor Implemented
+
+Login Button Incremented Entry Count
+
+Exit Button Incremented Exit Count
+
+Application Executed Successfully
+
+Exercise 8 Completed Successfully

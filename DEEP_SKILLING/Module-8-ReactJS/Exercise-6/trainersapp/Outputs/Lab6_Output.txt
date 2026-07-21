@@ -1,0 +1,23 @@
+=========================================
+Module 8 - Exercise 6
+=========================================
+
+Project Name : trainersapp
+
+Trainer Model Created
+
+Mock Trainer Data Added
+
+React Router Installed
+
+Home Component Created
+
+Trainers List Component Created
+
+Trainer Details Component Created
+
+Routing Configured Successfully
+
+Application Executed Successfully
+
+Exercise 6 Completed Successfully

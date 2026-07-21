@@ -1,0 +1,17 @@
+=========================================
+Module 8 - Exercise 5
+=========================================
+
+Project Name : cog-2
+
+CSS Module Created Successfully
+
+CohortDetails.module.css Added
+
+Box Style Applied
+
+Conditional Heading Color Applied
+
+Application Executed Successfully
+
+Exercise 5 Completed Successfully

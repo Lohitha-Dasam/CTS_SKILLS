@@ -1,0 +1,27 @@
+=========================================
+Module 8 - Exercise 9
+=========================================
+
+Project Name : cricketapp
+
+ListofPlayers Component Created
+
+Scorebelow70 Component Created
+
+IndianPlayers Component Created
+
+ListofIndianPlayers Component Created
+
+ES6 map() Implemented
+
+Arrow Function Implemented
+
+Array Destructuring Implemented
+
+Spread Operator Implemented
+
+Conditional Rendering Implemented
+
+Application Executed Successfully
+
+Exercise 9 Completed Successfully

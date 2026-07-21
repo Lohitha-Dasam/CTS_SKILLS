@@ -1,0 +1,29 @@
+.container {
+  display: flex;
+  justify-content: space-around;
+  margin: 40px;
+}
+
+.column {
+  width: 30%;
+  padding: 20px;
+  border-left: 4px solid green;
+}
+
+.column:first-child {
+  border-left: none;
+}
+
+h1 {
+  font-size: 36px;
+}
+
+h2 {
+  font-size: 24px;
+}
+
+h3,
+h4,
+p {
+  margin: 8px 0;
+}

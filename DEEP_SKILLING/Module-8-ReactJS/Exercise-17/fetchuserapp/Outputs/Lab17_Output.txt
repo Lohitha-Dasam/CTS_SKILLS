@@ -1,0 +1,21 @@
+=========================================
+Module 8 - Exercise 17
+=========================================
+
+Project Name : fetchuserapp
+
+Getuser Component Created
+
+REST API Invoked Successfully
+
+Fetch API Implemented
+
+componentDidMount() Implemented
+
+User Details Displayed
+
+User Image Displayed
+
+Application Executed Successfully
+
+Exercise 17 Completed Successfully

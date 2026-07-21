@@ -1,0 +1,21 @@
+=========================================
+Module 8 - Exercise 10
+=========================================
+
+Project Name : officespacerentalapp
+
+JSX Elements Implemented Successfully
+
+Office Image Displayed
+
+Office Objects Created
+
+Office List Rendered using map()
+
+Inline CSS Applied
+
+Conditional Rent Color Applied
+
+Application Executed Successfully
+
+Exercise 10 Completed Successfully

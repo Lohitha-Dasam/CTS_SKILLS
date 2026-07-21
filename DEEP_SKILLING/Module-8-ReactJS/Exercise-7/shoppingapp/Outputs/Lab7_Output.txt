@@ -1,0 +1,17 @@
+=========================================
+Module 8 - Exercise 7
+=========================================
+
+Project Name : shoppingapp
+
+Cart Component Created
+
+OnlineShopping Component Created
+
+Props Implemented Successfully
+
+Items Displayed in Table
+
+Application Executed Successfully
+
+Exercise 7 Completed Successfully

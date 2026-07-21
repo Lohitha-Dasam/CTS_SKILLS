@@ -1,0 +1,15 @@
+=========================================
+Module 8 – Exercise 1
+=========================================
+
+React Project Created Successfully
+
+Application Name : myfirstreact
+
+Application Executed Successfully
+
+Output Displayed
+
+Welcome the first session of React
+
+Exercise 1 Completed Successfully

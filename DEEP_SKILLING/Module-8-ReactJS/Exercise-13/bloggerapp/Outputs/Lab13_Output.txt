@@ -1,0 +1,21 @@
+=========================================
+Module 8 - Exercise 13
+=========================================
+
+Project Name : bloggerapp
+
+BookDetails Component Created
+
+BlogDetails Component Created
+
+CourseDetails Component Created
+
+Conditional Rendering Implemented
+
+React map() Implemented
+
+Keys Implemented
+
+Application Executed Successfully
+
+Exercise 13 Completed Successfully
