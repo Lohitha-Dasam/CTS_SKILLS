@@ -1,0 +1,18 @@
+==========================================
+Module 10 - Version Control (Git)
+Exercise 05
+==========================================
+
+Verified repository status.
+
+Listed available branches.
+
+Verified remote repository.
+
+Pulled latest changes from GitHub.
+
+Committed pending changes.
+
+Pushed local repository to GitHub.
+
+Verified changes successfully in remote repository.
