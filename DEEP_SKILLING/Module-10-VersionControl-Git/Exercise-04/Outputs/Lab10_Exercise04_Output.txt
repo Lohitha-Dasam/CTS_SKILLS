@@ -1,0 +1,22 @@
+==========================================
+Module 10 - Version Control (Git)
+Exercise 04
+==========================================
+
+Repository initialized.
+
+Created GitWork branch.
+
+Created hello.xml in branch.
+
+Created conflicting hello.xml in master.
+
+Merge conflict generated.
+
+Conflict resolved successfully.
+
+Created .gitignore.
+
+Merged branch deleted.
+
+Repository history verified.

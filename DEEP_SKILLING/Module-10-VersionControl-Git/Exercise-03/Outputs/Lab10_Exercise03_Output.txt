@@ -1,0 +1,20 @@
+==========================================
+Module 10 - Version Control (Git)
+Exercise 03
+==========================================
+
+Repository initialized.
+
+Created master branch.
+
+Created GitNewBranch.
+
+Modified sample.txt.
+
+Committed changes.
+
+Merged GitNewBranch into master.
+
+Viewed commit graph.
+
+Deleted GitNewBranch successfully.

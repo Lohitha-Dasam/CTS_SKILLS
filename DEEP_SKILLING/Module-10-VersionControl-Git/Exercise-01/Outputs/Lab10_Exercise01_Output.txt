@@ -1,0 +1,20 @@
+==========================================
+Module 10 - Version Control (Git)
+Exercise 01
+==========================================
+
+Git Version Verified.
+
+Git Global Configuration Verified.
+
+VS Code configured as Git Editor.
+
+Git Repository initialized.
+
+welcome.txt created.
+
+welcome.txt added to staging area.
+
+Commit created successfully.
+
+Working tree clean.

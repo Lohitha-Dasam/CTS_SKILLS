@@ -1,5 +1,7 @@
 # Module 9 - Application Debugging
 
+> **Note:** This project is a self-practice demonstration created to reinforce the Application Debugging concepts covered in the Cognizant learning material. It is not an official Cognizant hands-on exercise.
+
 ## Objective
 
 Demonstrate debugging techniques for a React application using Chrome Developer Tools and Visual Studio Code.
@@ -15,10 +17,10 @@ Demonstrate debugging techniques for a React application using Chrome Developer 
 - Counter application
 - Increment operation
 - Decrement operation
-- JavaScript debugger statement
+- JavaScript `debugger` statement
 - Breakpoint debugging
 - Variable inspection
 
 ## Result
 
-Successfully demonstrated React application debugging using Chrome DevTools and Visual Studio Code.
+Successfully demonstrated debugging of a React application using Chrome Developer Tools and Visual Studio Code.

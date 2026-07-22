@@ -1,0 +1,24 @@
+==========================================
+Module 10 - Version Control (Git)
+Exercise 02
+==========================================
+
+Repository initialized.
+
+Created:
+
+- app.log
+- logs/error.log
+- index.html
+- style.css
+
+Created .gitignore
+
+Ignored:
+
+*.log
+logs/
+
+Git status verified ignored files.
+
+Repository committed successfully.
